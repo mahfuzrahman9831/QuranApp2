@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:gravity="center"
+            android:background="#F1D9D9"
+            android:padding="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/quran_page_header1"
+                android:gravity="center"
+                android:textSize="30sp"
+                android:fontFamily="@font/scheherazaderegot"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/quran_page_header2"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:fontFamily="@font/kalpurush"
+                android:layout_marginBottom="15dp"
+                />
+
+            <LinearLayout
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/angry_btn"
+                    android:text="আয়াতুল কুরসী"
+                    android:textColor="#FFFFFF"
+                    android:textSize="30sp"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/new_gradiant"
+                    android:shadowColor="#A8A8A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5"
+                    />
+                <Button
+                    android:layout_marginLeft="30dp"
+                    android:id="@+id/angry_btn_new"
+                    android:text="Button"
+                    android:textColor="#FFFFFF"
+                    android:textSize="30sp"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/new_gradiant"
+                    android:shadowColor="#A8A8A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5"
+                    />
+
+            </LinearLayout>
+
+
+            <Button
+                android:layout_marginTop="25dp"
+                android:id="@+id/angry_btn2"
+                android:text="Button"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:background="@drawable/gradient2"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                />
+            <Button
+                android:layout_marginTop="25dp"
+                android:id="@+id/angry_btn3"
+                android:text="Button"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:background="@drawable/gradient2"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                />
+            <Button
+                android:layout_marginTop="25dp"
+                android:id="@+id/angry_btn4"
+                android:text="Button"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:background="@drawable/gradient2"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                />
+            <Button
+                android:layout_marginTop="25dp"
+                android:id="@+id/angry_btn5"
+                android:text="Button"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:background="@drawable/gradient2"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                />
+            <Button
+                android:layout_marginTop="25dp"
+                android:id="@+id/angry_btn6"
+                android:text="Button"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:background="@drawable/gradient2"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                />
+            <Button
+                android:layout_marginTop="25dp"
+                android:id="@+id/angry_btn7"
+                android:text="Button"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:layout_width="270dp"
+                android:layout_height="60dp"
+                android:background="@drawable/gradient2"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

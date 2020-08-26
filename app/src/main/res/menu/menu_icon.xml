@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item
+      android:id="@+id/quranMenuId"
+      android:title="কুরআন"
+      android:icon="@drawable/book_icon"
+      app:showAsAction="always"
+    />
+
+    <item
+        android:id="@+id/doaMenuId"
+        android:title="দোয়া"
+        android:icon="@drawable/doa_icon"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/hadisMenuId"
+        android:title="হাদীস"
+        android:icon="@drawable/hadis_icon"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/amolMenuId"
+        android:title="আমল"
+        android:icon="@drawable/amol_icon"
+        app:showAsAction="always"
+        />
+
+
+</menu>

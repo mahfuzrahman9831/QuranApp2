@@ -1,0 +1,516 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+
+    <string name="eighth_button">নামাজের ভিতরের দোয়া</string>
+    <string name="nineth_button">জানাযা নামাজের দোয়া</string>
+    <string name="tenth_button">দৈনন্দীন দোয়া</string>
+    <string name="ayatul_kursi_button">আয়াতুল কুরসী</string>
+
+    <string name="first_button"><b>সুরা-ফাতিহা</b>\nআয়াত-৭,মাক্কী</string>
+    <string name="second_button"><b>সুরা-নাস</b>\nআয়াত-৬,মাক্কী</string>
+    <string name="third_button"><b>সুরা-ফালাক</b>\nআয়াত-৫,মাক্কী</string>
+    <string name="fourth_button"><b>সুরা-ইখলাস</b>\nআয়াত-৪,মাক্কী</string>
+    <string name="fifth_button"><b>সুরা-লাহাব</b>\nআয়াত-৫,মাক্কী</string>
+    <string name="sisth_button"><b>সুরা-নাসর</b>\nআয়াত-৩,মাদানী</string>
+    <string name="seven_button"><b>সুরা-কাফিরূন</b>\nআয়াত-৬,মাক্কী</string>
+    <string name="eight_button"><b>সুরা-কাউসার</b>\nআয়াত-৩,মাক্কী</string>
+    <string name="nine_button"><b>সুরা-মাউন</b>\nআয়াত-৭,মাক্কী</string>
+    <string name="ten_button"><b>সুরা-কুরাইশ</b>\nআয়াত-৪,মাক্কী</string>
+    <string name="eleven_button"><b>সুরা-ফীল</b>\nআয়াত-৫,মাক্কী</string>
+    <string name="twelve_button"><b>সুরা-হূমাযাহ</b>\nআয়াত-৯,মাক্কী</string>
+    <string name="thirteen_button"><b>সুরা-আসর</b>\nআয়াত-৩,মাক্কী</string>
+    <string name="fourteen_button"><b>সুরা-তাকাসুর</b>\nআয়াত-৮,মাক্কী</string>
+    <string name="fifteen_button"><b>সুরা-ক্বারিআহ</b>\nআয়াত-১১,মাক্কী</string>
+    <string name="sixteen_button"><b>সুরা-আদিয়াত</b>\nআয়াত-১১,মাক্কী</string>
+    <string name="seventeen_button"><b>সুরা-যিলযাল</b>\nআয়াত-৮,মাক্কী</string>
+    <string name="eightteen_button"><b>সুরা-বাইয়্যিনাহ</b>\nআয়াত-৮,মাক্কী</string>
+    <string name="nineteen_button"><b>সুরা-ক্বাদর</b>\nআয়াত-৫,মাক্কী</string>
+    <string name="twenty_button"><b>সুরা-আলাক্ব</b>\nআয়াত-১৯,মাক্কী</string>
+    <string name="twenty_one_button"><b>সুরা-ত্বীন</b>\nআয়াত-৮,মাক্কী</string>
+    <string name="twenty_two_button"><b>সুরা-ইনশিরাহ</b>\nআয়াত-৮,মাক্কী</string>
+    <string name="twenty_three_button"><b>সুরা-দুহা</b>\nআয়াত-১১,মাক্কী</string>
+    <string name="twenty_four_button"><b>সুরা-লাইল</b>\nআয়াত-২১,মাক্কী</string>
+
+    <string name="twenty_five_button"><b>সুরা-শামস</b>\nআয়াত-১৫,মাক্কী</string>
+
+    <string name="quran_page_header1"> اِقۡرَاۡ بِاسۡمِ رَبِّکَ الَّذِیۡ خَلَقَ</string>
+    <string name="quran_page_header2">পড় তোমার প্রভুর নামে যিনি তোমাকে সৃষ্টি করেছেন।</string>
+
+    <string name="hadis_page_header1"> بَلِّغُوا عَنِّي وَلَوْ آيَةً </string>
+    <string name="hadis_page_header2">আমার পক্ষ হইতে একটি বাণী হলেও পৌছায় দাও।</string>
+
+
+    <string name="AlertDialog_Message">আপনি কি এই অ্যাপ থেকে বের হতে চাচ্ছেন?</string>
+
+
+    <string name="sura_fatiha_title"><b>সুরা ফাতিহা</b>\nঅর্থ-সূচনা</string>
+    <string name="sura_fatiha"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_fatiha_ayat_1">ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ ١</string>
+    <string name="sura_fatiha_ortho_1">সকল প্রশংসা আল্লাহর,যিনি জগৎ সমূহের প্রতিপালক।</string>
+    <string name="sura_fatiha_ayat_2">ٱلرَّحْمَٰنِ ٱلرَّحِيمِ  ٢</string>
+    <string name="sura_fatiha_ortho_2">যিনি পরম করুণাময় অতি দয়ালু।</string>
+    <string name="sura_fatiha_ayat_3">مَٰلِكِ يَوْمِ ٱلدِّينِ  ٣</string>
+    <string name="sura_fatiha_ortho_3">যিনি কেয়ামত দিবসের মালিক।</string>
+    <string name="sura_fatiha_ayat_4">إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ  ٤</string>
+    <string name="sura_fatiha_ortho_4">আমরা তোমারই এবাদত করি, এবং তোমারই কাছে সাহায্য প্রার্থনা করি।</string>
+    <string name="sura_fatiha_ayat_5">ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ  ٥</string>
+    <string name="sura_fatiha_ortho_5">আমাদের তুমি সহজ-সঠিক পথে পরিচালিত করো।</string>
+    <string name="sura_fatiha_ayat_6">صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ  ٦</string>
+    <string name="sura_fatiha_ortho_6">তাদের পথে যাদের প্রতি তুমি নিয়ামত অর্পণ করেছ, তাদের ব্যতীত যাদের প্রতি গযব এসেছে, এবং তাদেরও নয় যারা পথভ্রষ্ট।</string>
+    <string name="sura_fatiha_ayat_7">غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ  ٧</string>
+    <string name="sura_fatiha_ortho_7">তাদের ব্যতীত যাদের প্রতি গযব এসেছে, এবং তাদেরও নয় যারা পথভ্রষ্ট।</string>
+
+    <string name="sura_nas_title"><b>সুরা নাস</b>\nঅর্থ-মানবজাতী</string>
+    <string name="sura_nas"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_nas_ayat_1">قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١</string>
+    <string name="sura_nas_ortho_1">বলুন, আমি আশ্রয় গ্রহণ করছি মানুষের পালনকর্তার।</string>
+    <string name="sura_nas_ayat_2">مَلِكِ ٱلنَّاسِ ٢</string>
+    <string name="sura_nas_ortho_2">মানুষের অধিপতির,</string>
+    <string name="sura_nas_ayat_3">إِلَـٰهِ ٱلنَّاسِ ٣</string>
+    <string name="sura_nas_ortho_3">মানুষের মাবুদের,</string>
+    <string name="sura_nas_ayat_4">مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ  ٤</string>
+    <string name="sura_nas_ortho_4">তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্মগোপন করে,</string>
+    <string name="sura_nas_ayat_5">الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ  ٥</string>
+    <string name="sura_nas_ortho_5">যে কুমন্ত্রণা দেয় মানুষের অন্তরে,</string>
+    <string name="sura_nas_ayat_6">مِنَ الْجِنَّةِ وَ النَّاسِ  ٦</string>
+    <string name="sura_nas_ortho_6">জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।</string>
+
+    <string name="sura_falak_title"><b>সুরা ফালাক</b>\nঅর্থ-নিশিভোর</string>
+    <string name="sura_falak"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_falak_ayat_1">قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ  ١</string>
+    <string name="sura_falak_ortho_1">বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার,</string>
+    <string name="sura_falak_ayat_2">مِن شَرِّ مَا خَلَقَ  ٢</string>
+    <string name="sura_falak_ortho_2">তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে,</string>
+    <string name="sura_falak_ayat_3">وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ  ٣</string>
+    <string name="sura_falak_ortho_3">অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা আচ্ছন্ন হয়,</string>
+    <string name="sura_falak_ayat_4">وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلۡعُقَدِ  ٤</string>
+    <string name="sura_falak_ortho_4">(জাদু করার উদ্দেশ্যে) গিরায় ফুঁৎকার কারিণীদের অনিষ্ট থেকে,</string>
+    <string name="sura_falak_ayat_5">وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ  ٥</string>
+    <string name="sura_falak_ortho_5">এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।</string>
+
+    <string name="sura_ikhlach_title"><b>সুরা ইখলাছ</b>\nঅর্থ-একত্ব</string>
+    <string name="sura_ikhlach"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_ikhlach_ayat_1">قُلْ هُوَ ٱللَّهُ أَحَدٌ  ١</string>
+    <string name="sura_ikhlach_ortho_1">বলুন, তিনি আল্লাহ, এক,</string>
+    <string name="sura_ikhlach_ayat_2">ٱللَّهُ ٱلصَّمَدُ  ٢</string>
+    <string name="sura_ikhlach_ortho_2">আল্লাহ কোনো কিছুর মুখাপেক্ষী নন,সবই তার মুখাপেক্ষী,</string>
+    <string name="sura_ikhlach_ayat_3">لَمْ يَلِدْ وَلَمْ يُولَدْ  ٣</string>
+    <string name="sura_ikhlach_ortho_3">তিনি কাউকে জন্ম দেননি এবং তাকেও কেউ জন্ম দেয়নি</string>
+    <string name="sura_ikhlach_ayat_4">وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ  ٤</string>
+    <string name="sura_ikhlach_ortho_4">এবং তার সমতুল্য কেউ নেই।</string>
+
+
+    <string name="sura_lahab_title"><b>সুরা লাহাব</b>\nঅর্থ-অগ্নিশিখা</string>
+    <string name="sura_lahab"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_lahab_ayat_1">تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ  ١</string>
+    <string name="sura_lahab_ortho_1">ধ্বংস হোক আবু লাহাবের দুই হাত এবং ধ্বংস হোক সে নিজেও,</string>
+    <string name="sura_lahab_ayat_2">تمَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ  ٢</string>
+    <string name="sura_lahab_ortho_2">কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।</string>
+    <string name="sura_lahab_ayat_3">سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ  ٣</string>
+    <string name="sura_lahab_ortho_3">শিগগিরই সে প্রবেশ করবে লেলিহান অগ্নিতে</string>
+    <string name="sura_lahab_ayat_4">وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ  ٤</string>
+    <string name="sura_lahab_ortho_4">এবং তার স্ত্রীও-যে কাঠ বহন করে,</string>
+    <string name="sura_lahab_ayat_5">فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ  ٥</string>
+    <string name="sura_lahab_ortho_5">আর (জাহান্নামে) তার গলায় শক্ত পাকানো রশি বাঁধা থাকবে।</string>
+
+    <string name="sura_nasor_title"><b>সুরা নাসর</b>\nঅর্থ-সাহায্য</string>
+    <string name="sura_nasor"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_nasor_ayat_1">إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ  ١</string>
+    <string name="sura_nasor_ortho_1">যখন আসবে আল্লাহর সাহায্য ও বিজয়,</string>
+    <string name="sura_nasor_ayat_2">وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا  ٢</string>
+    <string name="sura_nasor_ortho_2">এবং আপনি মানুষকে দলে দলে আল্লাহর দ্বীনে প্রবেশ করতে দেখবেন,</string>
+    <string name="sura_nasor_ayat_3">فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا  ٣</string>
+    <string name="sura_nasor_ortho_3">তখন আপনি আপনার পালনকর্তার পবিত্রতা বর্ণনা করুন এবং তাঁর কাছে ক্ষমা প্রার্থনা করুন। নিশ্চয় তিনি ক্ষমাকারী (এবং তওবা কবুলকারী)।</string>
+
+    <string name="sura_kafirun_title"><b>সুরা কাফিরুন</b>\nঅর্থ-অবিশ্বাসী গোষ্ঠী</string>
+    <string name="sura_kafirun"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_kafirun_1"><b>قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ  ١</b>\n\nবলুন, হে কাফেররা,</string>
+    <string name="sura_kafirun_2"><b>لَآ أَعْبُدُ مَا تَعْبُدُونَ  ٢</b>\n\nতোমরা যার এবাদত কর,আমি তার এবাদত করি না,</string>
+    <string name="sura_kafirun_3"><b>وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ  ٣</b>\n\nএবং আমি যার এবাদত করি তোমরা তার এবাদত কারী নও,</string>
+    <string name="sura_kafirun_4"><b>وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ  ٤</b>\n\nআর আমি তার এবাদতকারী নই, যার এবাদত তোমরা করে থাক,</string>
+    <string name="sura_kafirun_5"><b>وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ  ٥</b>\n\nএবং আমি যার এবাদত করি তোমরা তার এবাদত কারী নও,</string>
+    <string name="sura_kafirun_6"><b>لَكُمْ دِينُكُمْ وَلِىَ دِينِ  ٦</b>\n\nতোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে।</string>
+
+    <string name="sura_kausar_title"><b>সুরা কাওসার</b>\nঅর্থ-প্রাচুর্য</string>
+    <string name="sura_kausar"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_kausar_1"><b>إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ  ١</b>\n\nনিশ্চয় আমি আপনাকে কাওসার দান করেছি।</string>
+    <string name="sura_kausar_2"><b>ٓفَصَلِّ لِرَبِّكَ وَٱنْحَرْ  ٢</b>\n\nঅতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন,</string>
+    <string name="sura_kausar_3"><b>ٓإِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ  ٣</b>\n\nআপনার প্রতি বিদ্বেষ পোষণকারীই লেজকাটা (নির্বংশ)।</string>
+
+    <string name="sura_maun_title"><b>সুরা মাউন</b>\nঅর্থ-সাহায্য-সহায়তা</string>
+    <string name="sura_maun"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_maun_1"><b>أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ  ١</b>\n\nআপনি কি দেখেছেন তাকে, যে বিচারদিবসকে মিথ্যা বলে?</string>
+    <string name="sura_maun_2"><b>فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ  	٢</b>\n\nসে তো সেই ব্যক্তি, যে এতীমকে গলা ধাক্কা দেয়</string>
+    <string name="sura_maun_3"><b>وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينَِ  ٣</b>\n\nএবং মিসকীনকে অন্ন দিতে উৎসাহিত করে না।</string>
+    <string name="sura_maun_4"><b>فَوَيْلٌ لِّلْمُصَلِّينََ  	٤</b>\n\nঅতএব দুর্ভোগ সেসব নামাযীদের জন্য,</string>
+    <string name="sura_maun_5"><b>ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ  ٥</b>\n\nযারা তাদের নামায সম্বন্ধে উদাসীন;</string>
+    <string name="sura_maun_6"><b>ٱلَّذِينَ هُمْ يُرَآءُونَ  ٦</b>\n\nযারা তা লোক-দেখানোর জন্য করে থাকে,</string>
+    <string name="sura_maun_7"><b>وَيَمْنَعُونَ ٱلْمَاعُونَ  ٧</b>\n\nএবং নিত্য প্রয়োজনীয় ব্যবহার্য্য বস্তু অন্যকে দেয় না।</string>
+
+    <string name="sura_kuraish_title"><b>সুরা কুরাইশ</b>\nঅর্থ-কুরাইশ গোত্র</string>
+    <string name="sura_kuraish"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_kuraish_1"><b>لِإِيلَٰفِ قُرَيْشٍ  ١</b>\n\nকুরাইশদের অভ্যস্ত করার কারণে,</string>
+    <string name="sura_kuraish_2"><b>إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ  ٢</b>\n\nতাদেরকে অভ্যস্ত করার কারণে শীত ও গ্রীষ্মকালীন সফরে,</string>
+    <string name="sura_kuraish_3"><b>فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ  ٣</b>\n\nঅতএব, তারা যেন এবাদত করে এই (কাবা) ঘরের পালনকর্তার,</string>
+    <string name="sura_kuraish_4"><b>ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ  ٤</b>\n\nযিনি তাদেরকে ক্ষুধায় আহার দিয়েছেন এবং ভয়ভীতি থেকে তাদেরকে নিরাপদ করেছেন।</string>
+
+    <string name="sura_fil_title"><b>সুরা ফীল</b>\nঅর্থ-হাতী</string>
+    <string name="sura_fil"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_fil_1"><b>أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ  ١</b>\n\nআপনি কি দেখেননি আপনার পালনকর্তা হাতী বাহিনীর সাথে কিরূপ ব্যবহার করেছেন?</string>
+    <string name="sura_fil_2"><b>أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ  ٢</b>\n\nতিনি কি তাদের চক্রান্ত ব্যররথ করে দেননি?</string>
+    <string name="sura_fil_3"><b>وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ  ٣</b>\n\nতিনি তাদের বিরুদ্ধে প্রেরণ করেছিলেন ঝাঁকে ঝাঁকে পাখী,</string>
+    <string name="sura_fil_4"><b>تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ  ٤</b>\n\nযারা তাদের উপর পাথরের কংকর নিক্ষেপ করেছিলো।</string>
+    <string name="sura_fil_5"><b>فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ  ٥</b>\n\nঅতঃপর তিনি তাদেরকে ভক্ষিত তৃণের মত করে দিলেন।</string>
+
+    <string name="sura_humajhah_title"><b>সুরা হূমাযাহ</b>\nঅর্থ-পরনিন্দাকারী</string>
+    <string name="sura_humajhah"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_humajhah_1"><b> وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ  ١</b>\n\nপ্রত্যেক পশ্চাতে ও সম্মুখে পরনিন্দাকারীর জন্য রয়েছে দুর্ভোগ,</string>
+    <string name="sura_humajhah_2"><b>ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥِ  ٢</b>\n\nযে ধন সম্পদ সঞ্চিত করে ও বারবার গণনা করে</string>
+    <string name="sura_humajhah_3"><b>يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ  ٣</b>\n\nসে মনে করে যে, তার ধন সম্পদ চিরকাল তার সাথে থাকবে!</string>
+    <string name="sura_humajhah_4"><b>كَلَّا لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ  ٤</b>\n\nকখনও না, তাকে অবশ্যই নিক্ষিপ্ত করা হবে পিষ্টকারী আগুনের মধ্যে।</string>
+    <string name="sura_humajhah_5"><b>وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ  ٥</b>\n\nআপনি কি জানেন, পিষ্টকারী আগুন কি?</string>
+    <string name="sura_humajhah_6"><b>نَارُ ٱللَّهِ ٱلْمُوقَدَةُ  ٦</b>\n\nএটা হলো আল্লাহর প্রজ্জ্বলিত আগুন,</string>
+    <string name="sura_humajhah_7"><b>ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ  ٧</b>\n\nযা হৃদয় পর্যন্ত পৌছে যাবে,</string>
+    <string name="sura_humajhah_8"><b>إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ  ٨</b>\n\nএ তাদেরকে চতুর্দিক থেকে পরিবেষ্টন করে রাখবে,</string>
+    <string name="sura_humajhah_9"><b>فِى عَمَدٍ مُّمَدَّدَةٍۭ  ٩</b>\n\n(লেলিহান অগ্নিভরা)লম্বা লম্বা খুঁটিতে।</string>
+
+    <string name="sura_asor_title"><b>সুরা আসর</b>\nঅর্থ-সময়</string>
+    <string name="sura_asor"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_asor_1"><b>وَٱلْعَصْرَِ  ١</b>\n\nসময়ের কসম,</string>
+    <string name="sura_asor_2"><b>ٓإِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ  ٢</b>\n\nনিশ্চয় মানুষ ক্ষতির মধ্যে রয়েছে;,</string>
+    <string name="sura_asor_3"><b>إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ  ٣</b>\n\nকিন্তু তারা নয়, যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে এবং পরস্পরকে সত্যের উপদেশ দেয় এবং উপদেশ দেয় ধৈর্যধারনের।</string>
+
+    <string name="sura_takasur_title"><b>সুরা তাকাসুর</b>\nঅর্থ-প্রাচুর্যের প্রতযোগিতা</string>
+    <string name="sura_takasur"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_takasur_1"><b> أَلْهَىٰكُمُ ٱلتَّكَاثُرُ  ١</b>\n\nপ্রাচুর্যের লালসা তোমাদেরকে ভুলিয়ে রেখেছে,</string>
+    <string name="sura_takasur_2"><b>حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ  ٢</b>\n\nএমনকি, তোমরা কবরস্থানে পর্যন্ত পৌছে যাও।</string>
+    <string name="sura_takasur_3"><b>كَلَّا سَوْفَ تَعْلَمُونَ  ٣</b>\n\nএটা কখনও উচিত নয়। তোমরা শীঘ্রই জানতে পারবে।</string>
+    <string name="sura_takasur_4"><b>ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ  ٤</b>\n\nআবার বলি,এটা কখনও উচিত নয়। তোমরা শীঘ্রই জানতে পারবে।</string>
+    <string name="sura_takasur_5"><b>كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ  ٥</b>\n\nকখনই নয়; যদি তোমরা নিশ্চিতভাবে জানতে।</string>
+    <string name="sura_takasur_6"><b>لَتَرَوُنَّ ٱلْجَحِيمَ  ٦</b>\n\nতোমরা অবশ্যই জাহান্নাম দেখবে,</string>
+    <string name="sura_takasur_7"><b>ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ  ٧</b>\n\nআবার বলি, তোমরা তা অবশ্যই দেখবে দিব্য দৃষ্টিতে,</string>
+    <string name="sura_takasur_8"><b>ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ  ٨</b>\n\nএরপর অবশ্যই সেদিন তোমাদেরকে নেয়ামত সম্পর্কে জিজ্ঞাসা করা হবে।</string>
+
+    <string name="sura_kariyah_title"><b>সুরা ক্বারিআহ</b>\nঅর্থ-মহাপ্রলয়</string>
+    <string name="sura_kariyah"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_kariyah_1"><b> ٱلْقَارِعَةُ  ١</b>\n\nমহাপ্রলয়,</string>
+    <string name="sura_kariyah_2"><b>مَا ٱلْقَارِعَةُ  ٢</b>\n\nমহাপ্রলয় কী?</string>
+    <string name="sura_kariyah_3"><b>وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ  ٣</b>\n\nআপনি কি জানেন,কী সেই মহাপ্রলয়?</string>
+    <string name="sura_kariyah_4"><b>يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ  ٤</b>\n\nযেদিন মানুষ হবে বিক্ষিপ্ত পতংগের মত,</string>
+    <string name="sura_kariyah_5"><b>وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ  ٥</b>\n\nএবং পাহাড়গুলো হবে ধুনিত রঙ্গীন পশমের মত।</string>
+    <string name="sura_kariyah_6"><b>فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ  ٦</b>\n\nঅতএব যার (নেকির) পাল্লা ভারী হবে,</string>
+    <string name="sura_kariyah_7"><b>فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ  ٧</b>\n\nসে (জান্নাতে) সুখীজীবন যাপন করবে।</string>
+    <string name="sura_kariyah_8"><b>وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ  ٨</b>\n\nআর যার (নেকির) পাল্লা হালকা হবে,</string>
+    <string name="sura_kariyah_9"><b>فَأُمُّهُۥ هَاوِيَةٌ  ٩</b>\n\nতার ঠিকানা হবে হাবিয়া (জাহান্নামের গভীর গর্ত)।</string>
+    <string name="sura_kariyah_10"><b>وَمَآ أَدْرَىٰكَ مَا هِيَهْ  	١٠</b>\n\nআপনি জানেন তা কি?</string>
+    <string name="sura_kariyah_11"><b>نَارٌ حَامِيَةٌۢ  ١١</b>\n\nউত্তপ্ত অগ্নি!</string>
+
+    <string name="sura_adiyat_title"><b>সুরা-আদিয়াত</b>\nঅর্থ-অভিযানকারী</string>
+    <string name="sura_adiyat"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_adiyat_1"><b> وَٱلْعَٰدِيَٰتِ ضَبْحًا  ١</b>\n\nশপথ সেই (ঘোড়া) গুলোর যারা উর্ধ্বশ্বাসে দৌড়ায়,</string>
+    <string name="sura_adiyat_2"><b>فَٱلْمُورِيَٰتِ قَدْحًا  ٢</b>\n\nঅতঃপর (ক্ষুরের আঘাতে) আগুন ধরায়,</string>
+    <string name="sura_adiyat_3"><b>فَٱلْمُغِيرَٰتِ صُبْحًا  ٣</b>\n\nঅতঃপর প্রভাতকালে (শত্রু দলের ওপর) আক্রমণ করে,</string>
+    <string name="sura_adiyat_4"><b>فَأَثَرْنَ بِهِۦ نَقْعًا  ٤</b>\n\nসে সময়ে ধুলো উড়ায়,</string>
+    <string name="sura_adiyat_5"><b>فَوَسَطْنَ بِهِۦ جَمْعًا  ٥</b>\n\nও শক্রদলের অভ্যন্তরে ঢুকে পড়ে,</string>
+    <string name="sura_adiyat_6"><b>إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌ  ٦</b>\n\nনিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।</string>
+    <string name="sura_adiyat_7"><b>وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ  ٧</b>\n\nআর সে নিজেই এর বড় সাক্ষী।</string>
+    <string name="sura_adiyat_8"><b>وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ  ٨</b>\n\nএবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।</string>
+    <string name="sura_adiyat_9"><b>أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ  ٩</b>\n\nসে কি জানে না, কবরে যা আছে, তা যখন উত্থিত হবে</string>
+    <string name="sura_adiyat_10"><b>وَحُصِّلَ مَا فِى ٱلصُّدُورِ  	١٠</b>\n\nএবং অন্তরে যা আছে, তা প্রকাশ করা হবে?</string>
+    <string name="sura_adiyat_11"><b>إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ  ١١</b>\n\nসেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা অবশ্যই অবগত আছেন।</string>
+
+    <string name="sura_zilzal_title"><b>সুরা-যিলযাল</b>\nঅর্থ-ভূমিকম্প</string>
+    <string name="sura_zilzal"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_zilzal_1"><b> إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا  ١</b>\n\nযখন পৃথিবী তার কম্পনে প্রকম্পিত হবে,</string>
+    <string name="sura_zilzal_2"><b>وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا  ٢</b>\n\nযখন পৃথিবী তার বোঝা বের করে দেবে।</string>
+    <string name="sura_zilzal_3"><b>وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا  ٣</b>\n\nএবং মানুষ বলবে, "এর কি হল ?"</string>
+    <string name="sura_zilzal_4"><b>يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا  ٤</b>\n\nসেদিন সে (পৃথিবী) তার বৃত্তান্ত বর্ণনা করবে,</string>
+    <string name="sura_zilzal_5"><b>بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا  ٥</b>\n\nকারণ, আপনার পালনকর্তা তাকে আদেশ করবেন।</string>
+    <string name="sura_zilzal_6"><b>يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَٰلَهُمْ  ٦</b>\n\nসেদিন মানুষ বিভিন্ন দলে প্রকাশ পাবে, যাতে তাদেরকে তাদের কৃতকর্ম দেখানো যায়।</string>
+    <string name="sura_zilzal_7"><b>فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ  ٧</b>\n\nঅতঃপর কেউ অণু পরিমাণ সৎকর্ম করলে সে তা দেখতে পাবে</string>
+    <string name="sura_zilzal_8"><b>وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ  ٨</b>\n\nএবং কেউ অণু পরিমাণ অসৎকর্ম করলে সেও তা দেখতে পাবে।</string>
+
+    <string name="sura_baiyinah_title"><b>সুরা-বাইয়্যিনাহ</b>\nঅর্থ-সুস্পষ্ট প্রমাণ</string>
+    <string name="sura_baiyinah"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_baiyinah_1"><b> لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ  ١</b>\n\nকিতাবধারী ও মুশরেকদের মধ্যে যারা কাফের ছিল, তারা প্রত্যাবর্তন করত না যতক্ষণ না তাদের কাছে সুস্পষ্ট প্রমাণ আসত।</string>
+    <string name="sura_baiyinah_2"><b>رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً  ٢</b>\n\nঅর্থাৎ আল্লাহর একজন রসূল, যিনি পাঠ করতেন পবিত্র গ্রন্থ,</string>
+    <string name="sura_baiyinah_3"><b>فِيهَا كُتُبٌ قَيِّمَةٌ  ٣</b>\n\nযাতে আছে, সঠিক বিধি বিধান।</string>
+    <string name="sura_baiyinah_4"><b>وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ  ٤</b>\n\nআর যাদেরকে কিতাব দেয়া হয়েছিলো তারা বিভ্রান্ত হয়েছিল, তাদের কাছে সুস্পষ্ট প্রমাণ আসার পরেই।</string>
+    <string name="sura_baiyinah_5"><b>وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ  ٥</b>\n\nতাদেরকে এছাড়া কোন নির্দেশ করা হয়নি যে, তারা খাঁটি মনে একনিষ্ঠভাবে আল্লাহর এবাদত করবে, নামায কায়েম করবে এবং যাকাত দেবে। এটাই সঠিক সুদৃঢ় ধর্ম।</string>
+    <string name="sura_baiyinah_6"><b>إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ  ٦</b>\n\nকিতাবধারীদের মধ্যে যারা কুফুরী করে তারা ও মুশরিকরা, তারা জাহান্নামের আগুনে স্থায়ীভাবে থাকবে। তারাই সৃষ্টির অধম।</string>
+    <string name="sura_baiyinah_7"><b>إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ  ٧</b>\n\nযারা ঈমান আনে ও সৎকর্ম করে, সকল সৃষ্টির মধ্যে তারাই  শ্রেষ্ঠ।</string>
+    <string name="sura_baiyinah_8"><b>جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ  ٨</b>\n\nতাদের পালনকর্তার কাছে রয়েছে তাদের প্রতিদান চিরকাল বসবাসের জান্নাত, যার তলদেশে নির্ঝরিণী প্রবাহিত। তারা সেখানে থাকবে অনন্তকাল। আল্লাহ তাদের প্রতি সন্তুষ্ট এবং তারা আল্লাহর প্রতি সন্তুষ্ট। এসব কিছু তার জন্যে, যে তার পালনকর্তাকে ভয় করে।</string>
+
+    <string name="sura_kador_title"><b>সুরা-ক্বাদর</b>\nঅর্থ-মহিমান্বিত</string>
+    <string name="sura_kador"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_kador_1"><b> إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ  ١</b>\n\nআমি কোরআনকে নাযিল করেছি লায়লাতুল ক্বাদরের রাতে,</string>
+    <string name="sura_kador_2"><b>وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ  ٢</b>\n\nআপনি কি জানেন,লায়লাতুল ক্বাদরের রাত কী?</string>
+    <string name="sura_kador_3"><b>لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ  ٣</b>\n\nলায়লাতুল ক্বাদর হল এক হাজার মাস অপেক্ষা শ্রেষ্ঠ।</string>
+    <string name="sura_kador_4"><b>تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ  ٤</b>\n\nএ রাতে ফেরেশতাগণ ও জিবরাঈল প্রত্যেক কাজের জন্যে অবতীর্ণ হয় তাদের পালনকর্তার আদেশক্রমে।</string>
+    <string name="sura_kador_5"><b>سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ  ٥</b>\n\n(এ রাতে বিরাজ করে) শান্তি,যা ফজরের উদয় পর্যন্ত অব্যাহত থাকে।</string>
+
+    <string name="sura_alak_title"><b>সুরা-আলাক</b>\nঅর্থ-রক্তপিন্ড</string>
+    <string name="sura_alak"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_alak_1"><b> اِقۡرَاۡ بِاسۡمِ رَبِّکَ الَّذِیۡ خَلَقَ ١</b>\n\nপড়ুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন</string>
+    <string name="sura_alak_2"><b>خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ  ٢</b>\n\nতিনি মানুষকে সৃষ্টি করেছেন জমাট রক্ত থেকে।</string>
+    <string name="sura_alak_3"><b>ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ  ٣</b>\n\nপড়ুন, আপনার পালনকর্তা মহা দয়ালু,</string>
+    <string name="sura_alak_4"><b>ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ  ٤</b>\n\nযিনি কলমের সাহায্যে শিক্ষা দিয়েছেন,</string>
+    <string name="sura_alak_5"><b>عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ  ٥</b>\n\nশিক্ষা দিয়েছেন মানুষকে যা সে জানত না।</string>
+    <string name="sura_alak_6"><b>كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ  ٦</b>\n\nসত্যি সত্যি মানুষ সীমালংঘন করে,</string>
+    <string name="sura_alak_7"><b>أَن رَّءَاهُ ٱسْتَغْنَىٰٓ  ٧</b>\n\nকারণ সে নিজেকে অভাবমুক্ত মনে করে।</string>
+    <string name="sura_alak_8"><b>إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ  ٨</b>\n\nনিশ্চয় আপনার পালনকর্তার কাছে ফিরে যেতে হবে।</string>
+    <string name="sura_alak_9"><b>أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ  ٩</b>\n\nআপনি কি তাকে (আবু জাহলকে) দেখেছেন, যে নিষেধ করে</string>
+    <string name="sura_alak_10"><b>عَبْدًا إِذَا صَلَّىٰٓ  	١٠</b>\n\nএক বান্দাকে (রাসুল সাঃ কে) যখন সে নামায পড়ে?</string>
+    <string name="sura_alak_11"><b>أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ  ١١</b>\n\nআপনি কি দেখেছেন যদি সে সৎপথে থাকে।</string>
+    <string name="sura_alak_12"><b>أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ  	١٢</b>\n\nঅথবা তাকওয়া অবলম্বনের শিক্ষা দেয়।</string>
+    <string name="sura_alak_13"><b>أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ  ١٣</b>\n\nআপনি কি দেখেছেন, যদি সে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।</string>
+    <string name="sura_alak_14"><b>أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ  	١٤</b>\n\nসে কি জানে না যে, আল্লাহ দেখেন?</string>
+    <string name="sura_alak_15"><b>كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ  ١٥</b>\n\nকখনই নয়, যদি সে বিরত না হয়, তবে আমি মাথার সামনের চুলগুচ্ছ ধরে হেঁচড়ে নিয়ে যাব-</string>
+    <string name="sura_alak_16"><b>نَاصِيَةٍ كَٰذِبَةٍ خَاطِئَةٍِ  ١٦</b>\n\nমিথ্যাচারী, পাপীর চুলগুচ্ছ।</string>
+    <string name="sura_alak_17"><b>فَلْيَدْعُ نَادِيَهُۥ  ١٧</b>\n\nঅতএব, সে তার সভাসদদেরকে আহবান করুক।</string>
+    <string name="sura_alak_18"><b>سَنَدْعُ ٱلزَّبَانِيَةَ  ١٨</b>\n\nআমিও আহবান করব জাহান্নামের ফেরেশ্তাদেরকে</string>
+    <string name="sura_alak_19"><b>كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب  ١٩</b>\n\nকখনই নয়, আপনি তার আনুগত্য করবেন না। আপনি সেজদা করুন ও আমার নৈকট্য অর্জন করুন।</string>
+
+
+    <string name="sura_tin_title"><b>সুরা আত-তীন</b>\nঅর্থ-ডুমুর</string>
+    <string name="sura_tin"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_tin_ayat_1">وَٱلتِّينِ وَٱلزَّيْتُونِ  ١</string>
+    <string name="sura_tin_ortho_1">শপথ ডুমুর ও জলপাইয়ের,</string>
+    <string name="sura_tin_ayat_2">وَطُورِ سِينِينَ  ٢</string>
+    <string name="sura_tin_ortho_2">শপত সিনাই পর্বতের</string>
+    <string name="sura_tin_ayat_3">وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ  ٣</string>
+    <string name="sura_tin_ortho_3">এবং শপথ এই নিরাপদ নগরীর।</string>
+    <string name="sura_tin_ayat_4">لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ  ٤</string>
+    <string name="sura_tin_ortho_4">আমি মানুষকে সৃষ্টি করেছি সুন্দরতর আকৃতি দিয়ে ।</string>
+    <string name="sura_tin_ayat_5">ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ  ٥</string>
+    <string name="sura_tin_ortho_5">অতঃপর তাকে নিকৃষ্টদের নিকৃষ্টতম করে দিয়েছি,</string>
+    <string name="sura_tin_ayat_6">إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ  ٦</string>
+    <string name="sura_tin_ortho_6">কিন্তু তাদেরকে নয় যারা বিশ্বাস স্থাপন করেছে ও সৎকর্ম করে, তাদের জন্যে রয়েছে অফুরন্ত প্রতিদান।</string>
+    <string name="sura_tin_ayat_7">فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ  ٧</string>
+    <string name="sura_tin_ortho_7">অতঃপর কেন তুমি অবিশ্বাস করছ কেয়ামতকে?</string>
+    <string name="sura_tin_ayat_8">أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ  ٨</string>
+    <string name="sura_tin_ortho_8">আল্লাহ কি বিচারকদের মধ্যে শ্রেষ্টতম বিচারক নন?</string>
+
+    <string name="sura_inshirah_title"><b>সুরা ইনশিরাহ </b>\nঅর্থ-বক্ষ প্রশস্তকরণ</string>
+    <string name="sura_inshirah"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_inshirah_ayat_1">أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ  ١</string>
+    <string name="sura_inshirah_ortho_1">আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?</string>
+    <string name="sura_inshirah_ayat_2">وَوَضَعْنَا عَنكَ وِزْرَكَ  ٢</string>
+    <string name="sura_inshirah_ortho_2">আমি লাঘব করেছি আপনার বোঝা,</string>
+    <string name="sura_inshirah_ayat_3">ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ  ٣</string>
+    <string name="sura_inshirah_ortho_3">যা ছিল আপনার জন্যে অতিশয় দুঃসহ।</string>
+    <string name="sura_inshirah_ayat_4">وَرَفَعْنَا لَكَ ذِكْرَكَ  ٤</string>
+    <string name="sura_inshirah_ortho_4">আমি আপনার খ্যাতিকে উচ্চ মর্যাদা দান করেছি।</string>
+    <string name="sura_inshirah_ayat_5">فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا  ٥</string>
+    <string name="sura_inshirah_ortho_5">নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।</string>
+    <string name="sura_inshirah_ayat_6">إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا  ٦</string>
+    <string name="sura_inshirah_ortho_6">নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।</string>
+    <string name="sura_inshirah_ayat_7">فَإِذَا فَرَغْتَ فَٱنصَبْ  ٧</string>
+    <string name="sura_inshirah_ortho_7">অতএব,আপনি যখন অবসর পান পরিশ্রম করুন।</string>
+    <string name="sura_inshirah_ayat_8">وَإِلَىٰ رَبِّكَ فَٱرْغَب  ٨</string>
+    <string name="sura_inshirah_ortho_8">এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।</string>
+
+    <string name="sura_duha_title"><b>সুরা আদ-দুহা </b>\nঅর্থ-পূর্বান্হের সুর্যকিরণ</string>
+    <string name="sura_duha"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_duha_ayat_1">وَٱلضُّحَىٰ  ١</string>
+    <string name="sura_duha_ortho_1">সকালের উজ্জ্বল আলোর শপথ,</string>
+    <string name="sura_duha_ayat_2">وَٱلَّيْلِ إِذَا سَجَىٰ  ٢</string>
+    <string name="sura_duha_ortho_2">শপথ রাত্রির যখন তা গভীর হয়,</string>
+    <string name="sura_duha_ayat_3">مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ  ٣</string>
+    <string name="sura_duha_ortho_3">আপনার পালনকর্তা আপনাকে ত্যাগ করেনি এবং আপনার প্রতি অসন্তুষ্টি ও হননি।</string>
+    <string name="sura_duha_ayat_4">وَلَلْءَاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ  ٤</string>
+    <string name="sura_duha_ortho_4">আপনার জন্যে পরকাল ইহকাল অপেক্ষা উৎকৃ্ষট।</string>
+    <string name="sura_duha_ayat_5">وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ  ٥</string>
+    <string name="sura_duha_ortho_5">আপনার পালনকর্তা শীঘ্রই আপনাকে এত নিয়ামত দান করবেন, অতঃপর আপনি সন্তুষ্ট হয়ে যাবেন।</string>
+    <string name="sura_duha_ayat_6">أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ  ٦</string>
+    <string name="sura_duha_ortho_6">তিনি কি আপনাকে এতীমরূপে পাননি? অতঃপর তিনি আপনাকে আশ্রয় দিয়েছেন।</string>
+    <string name="sura_duha_ayat_7">وَوَجَدَكَ ضَآلًّا فَهَدَىٰ  ٧</string>
+    <string name="sura_duha_ortho_7">তিনি আপনাকে পেয়েছেন পথহারা অবস্তায়, অতঃপর পথের সন্ধান।</string>
+    <string name="sura_duha_ayat_8">وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ  ٨</string>
+    <string name="sura_duha_ortho_8">তিনি আপনাকে পেয়েছেন অভাবগ্রস্ত অবস্তায়, অতঃপর অভাবমুক্ত করেছেন।</string>
+    <string name="sura_duha_ayat_9">فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ  ٦</string>
+    <string name="sura_duha_ortho_9">সুতরাং আপনি এতীমের প্রতি কঠোর হবেন না;</string>
+    <string name="sura_duha_ayat_10">وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ  ٧</string>
+    <string name="sura_duha_ortho_10">এবং ভিক্ষউক্কে ধমক দেবেন না।</string>
+    <string name="sura_duha_ayat_11">وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ  ٨</string>
+    <string name="sura_duha_ortho_11">এবং আপনার পালনকর্তার নেয়ামতের কথা প্রকাশ করুন।</string>
+
+    <string name="sura_lail_title"><b>সুরা আল-লাইল </b>\nঅর্থ-রাত্রি</string>
+    <string name="sura_lail"><b>بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم</b></string>
+    <string name="sura_lail_ayat_1">وَٱلَّيْلِ إِذَا يَغْشَىٰ  ١</string>
+    <string name="sura_lail_ortho_1">শপথ রাত্রির, যখন তা আচ্ছন্ন করে,</string>
+    <string name="sura_lail_ayat_2">وَٱلنَّهَارِ إِذَا تَجَلَّىٰ  ٢</string>
+    <string name="sura_lail_ortho_2">শপথ দিনের, যখন তা আলোকিত হয়</string>
+    <string name="sura_lail_ayat_3">وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ  ٣</string>
+    <string name="sura_lail_ortho_3">এবং শপথ সেই সত্তার, যিনি নর ও নারী সৃষ্টি করেছেন,</string>
+    <string name="sura_lail_ayat_4">إِنَّ سَعْيَكُمْ لَشَتَّىٰ  ٤</string>
+    <string name="sura_lail_ortho_4">নিশ্চয় তোমাদের কর্ম প্রচেষ্টা বিভিন্ন ধরনের।</string>
+    <string name="sura_lail_ayat_5">فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ  ٥</string>
+    <string name="sura_lail_ortho_5">অতএব, যে দান করে এবং আল্লাহ কে ভয় করে,</string>
+    <string name="sura_lail_ayat_6">وَصَدَّقَ بِٱلْحُسْنَىٰ  ٦</string>
+    <string name="sura_lail_ortho_6">এবং উত্তম বিষয়কে সত্য মনে করে,</string>
+    <string name="sura_lail_ayat_7">فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ  ٧</string>
+    <string name="sura_lail_ortho_7">আমি তাকে সুখের বিষয় (জান্নাত) সহজ করে দেব।</string>
+    <string name="sura_lail_ayat_8">وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ  ٨</string>
+    <string name="sura_lail_ortho_8">আর যে কৃপণতা করে ও আল্লাহর প্রতি বেপরোয়া হয়</string>
+    <string name="sura_lail_ayat_9">وَكَذَّبَ بِٱلْحُسْنَىٰ  ٦</string>
+    <string name="sura_lail_ortho_9">এবং উত্তম বিষয়কে মিথ্যা মনে করে,</string>
+    <string name="sura_lail_ayat_10">فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ  ٧</string>
+    <string name="sura_lail_ortho_10">আমি তাকে কষ্টের বিষয় (জাহান্নাম) সহজ করে দেব।</string>
+    <string name="sura_lail_ayat_11">وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ  ٨</string>
+    <string name="sura_lail_ortho_11">যখন সে ধ্বংস হবে, তখন তার সম্পদ তার কোনই কাজে আসবে না।</string>
+    <string name="sura_lail_ayat_12">إِنَّ عَلَيْنَا لَلْهُدَىٰ  ٢</string>
+    <string name="sura_lail_ortho_12">আমার দায়িত্ব শুধু পথ প্রদর্শন করা।</string>
+    <string name="sura_lail_ayat_13">وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ  ٣</string>
+    <string name="sura_lail_ortho_13">আর আমিই মালিক ইহকালের ও পরকালের।</string>
+    <string name="sura_lail_ayat_14">فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ  ٤</string>
+    <string name="sura_lail_ortho_14">অতএব, আমি তোমাদেরকে জাহান্নামের আগুন সম্পর্কে সতর্ক করে দিয়েছি।</string>
+    <string name="sura_lail_ayat_15">لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى  ٥</string>
+    <string name="sura_lail_ortho_15">এতে নিতান্ত দুর্ভাগ্যবান ব্যক্তিই প্রবেশ করবে,</string>
+    <string name="sura_lail_ayat_16">ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ  ٦</string>
+    <string name="sura_lail_ortho_16">যে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।</string>
+    <string name="sura_lail_ayat_17">وَسَيُجَنَّبُهَا ٱلْأَتْقَى  ٧</string>
+    <string name="sura_lail_ortho_17">এ থেকে দূরে রাখা হবে সত্যিকার খোদাভীরু ব্যক্তিকে,</string>
+    <string name="sura_lail_ayat_18">ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ  ٨</string>
+    <string name="sura_lail_ortho_18">যে পবিত্রতা অর্জনের জন্যে তার ধন-সম্পদ দান করে।</string>
+    <string name="sura_lail_ayat_19">وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ  ٦</string>
+    <string name="sura_lail_ortho_19">এবং তার উপর কারও অনুগ্রহের প্রতদান হিসেবে নয়।</string>
+    <string name="sura_lail_ayat_20">إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ  ٧</string>
+    <string name="sura_lail_ortho_20">সে শুধু তার মহান প্রভুর সন্তুষ্টি অনবেষণ করে।</string>
+    <string name="sura_lail_ayat_21">وَلَسَوْفَ يَرْضَىٰ  ٨</string>
+    <string name="sura_lail_ortho_21">সে অবশ্যই অতি শীঘ্র সন্তুষ্ট হয়ে যাবে।</string>
+
+
+    <string name="rog_mukti_doa">اللَّهمَّ إِنِّي أَعُوُذُ بِكَ مِنَ الْبرَصِ، وَالجُنُونِ، والجُذَامِ، وسّيءِ الأَسْقامِ</string>
+    <string name="rog_mukti_uccaron"><b>রোগ মুক্তি</b>\nউচ্চারণ: আল্লাহুম্মা ইন্নি আ’য়ুজুবিকা মিনাল বারাছ, ওয়াল জুনুন ওয়াল জুযাম, ওয়া সায়্যিইল আসক্বাম। </string>
+    <string name="rog_mukti_ortho"><b>রোগ মুক্তি</b>\nঅর্থ: হে আল্লাহ, আমি তোমার নিকট ধবল, কুষ্ঠ এবং উন্মাদনা সহ সব ধরনের কঠিন দূরারোগ্য ব্যাধি থেকে পানাহ চাই। </string>
+
+    <string name="taSha_hud"> التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَ عَلٰى عِبَادِ اللهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَ رَسُوْلُهُ </string>
+    <string name="taSha_hud_uccaron">উচ্চারণ: আত্তাহিয়্যাতু লিল্লাহি, ওয়াস সালাওয়াতু, ওয়াত- তাইয়্যিবাতু, আস সালামু আলাইকা, আইয়্যুহান নাবিয়্যু, ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহ, আস সালামু আলাইনা, ওয়া আলা ইবাদিল্লাহিস-সালিহীন। আশহাদু আল- লা ইলাহা ইল্লাল্লাহু, ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসূলুহু। </string>
+    <string name="taSha_hud_ortho">অর্থ: আমাদের সব সালাম শ্রদ্ধা, আমাদের সব নামাজ এবং সকল প্রকার পবিত্রতা একমাত্র আল্লাহর উদ্দেশ্যে। হে নবি, আপনার প্রতি সালাম, আপনার উপর আল্লাহর রহমত এবং অনুগ্রহ বর্ষিত হউক । আমাদের ও আল্লাহর নেক বান্দাদের ওপর আল্লাহর রহমত এবং অনুগ্রহ বর্ষিত হউক। আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া আর কেউ নেই, আমি আরও সাক্ষ্য দিচ্ছি যে, মুহাম্মাদ আল্লাহর বান্দা এবং রাসুল। </string>
+
+    <string name="durud_shorif"> اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اَلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى اِبْرَا هِيْمَ وَعَلَى اَلِ اِبْرَ اهِيْمَ اِنَّكَ حَمِيْدٌ مَّجِيْدٌ- اَللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى اَلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى اِبْرَا هِيْمَ وَعَلَى اَلِ اِبْرَا هِيْمَ اِنَّكَ حَمِيْدٌمَّجِيْدٌ </string>
+    <string name="durud_shorif_uccaron">উচ্চারণ: আললাহুম্মা সাললিআলা মুহাম্মাদিঁ ওয়া আলা আলি মুম্মাদিন কামা সাললাইতা আলা ইব্রাহীমা ওয়া আলা আলি ইব্রাহীমা ইন্নাকা হামিদুম্মাজীদ। আললাহুম্মা বারিক আলা মুহাম্মাদিঁ ওয়া আলা আলি মুহাম্মাদিন কামা বারাকতা আলা ইব্রাহীমা ওয়া আলা আলি ইব্রাহীমা ইন্নাকা হামীদুম্মাজীদ। </string>
+    <string name="durud_shorif_ortho">অর্থ: হে আল্লাহ! মুহাম্মদ (সাল্লাললাহু আলাইহি ওয়া সাললাম) এবং তাঁহার বংশধরগণের উপর ঐরূপ আশীর্বাদ অবতীর্ণ কর যেইরূপ আর্শীবাদ হযরত ইব্রাহিম এবং তাঁহার বংশধরগণের উপর অবতীর্ণ করিয়াছ। নিশ্চয়ই তুমি প্রশংসা ভাজন এবং মহামহিম। হে আল্লাহ! মুহাম্মদ (সাল্লাললাহু আলাইহি ওয়া সাললাম) এবং তাঁহার বংশধরগণের উপর সেইরূপ অনুগ্রহ কর যে রূপ অনুগ্রহ ইব্রাহীম এবং তাঁহার বংশরগণের উপর করিয়াছ। নিশ্চয়ই তুমি প্রশংসা ভাজন এবং মহামহিম। </string>
+
+    <string name="doa_masura"> اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ. فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ، وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ </string>
+    <string name="doa_masura_uccaron">উচ্চারণঃ আল্লাহুম্মা ইন্নী যালামতু নাফসী যুল্মান কাসীরাওঁ ওয়ালা ইয়াগ ফিরুয যুনূবা ইল্লা আন্তা; ফাগফির লী মাগফিরাতাম মিন ইন্দিকা ওয়ার হামনী ইন্নাকা আন্তাল গফুরুর রাহীম। </string>
+    <string name="doa_masura_ortho">অর্থ: হে আল্লাহ্! আমি আমার নিজ আত্মার উপর বড়ই অত্যাচার করেছি, গুনাহ মাফকারী একমাত্র তুমিই; অতএব তুমি আপনা হইতে আমাকে সম্পূর্ণ ক্ষমা কর এবং আমার প্রতি দয়া কর। তুমি নিশ্চয়ই ক্ষমাশীল দয়ালু। </string>
+
+    <string name="janaja_namaz"> اَلَّهُمَّ اغْفِرْلحَِيِّنَاوَمَيِّتِنَا وَشَاهِدِنَا وَغَائِبِنَا وَصَغِيْرِنَا وَكَبِيْرِنَا وَذَكَرِنَا وَاُنْثَا نَا اَللَّهُمَّ مَنْ اَحْيَيْتَهُ مِنَّا فَاَحْيِهِ عَلَى الاِْسْلاَمِ وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَىالاِْيمَانِ بِرَحْمَتِكَ يَاَارْ حَمَالرَّحِمِيْنَ </string>
+    <string name="janaja_namaz_uccaron">বাংলা উচ্চারণঃ আল্লাহুম্মাগফিরলি হাইয়্যেনা ওয়া মাইয়্যিতিনা ওয়া শাহীদিনা ওয়া গায়িবিনা ও ছাগীরিনা ও কাবীরিনা ও যাকারিনা ও উনছানা। আল্লাহুম্মা মান আহইয়াইতাহু মিন্না ফাআহয়িহি আলাল ইসলামী ওয়া মান তাওয়াফ ফাইতাহু মিন্না ফাতাওয়াফ ফাহু আলাল ঈমান বিরাহমাতিকা ইয়া আর হামার রাহীমিন । </string>
+    <string name="janaja_namaz_ortho"> বাংলা অর্থ: হে আল্লাহ্ আমাদের জীবিত ও মৃত উপস্থিত ও অুপস্থিত বালকও বৃদ্ধ পুরুষ ও স্ত্রীলোকদিগকে ক্ষমা কর। হে আল্লাহ আমাদের মধ্যে যাহাদিগকে তুমি জীবিত রাখ তাহাদিগকে মৃত্যুর মুখে পতিত কর। তাহাদিগকে ঈমানের সাথে মৃত্যু বরণ করাইও। </string>
+
+    <string name="janbahoner_doa"> سُبْحانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ </string>
+    <string name="janbahoner_doa_uccaron"><b>যানবাহনে যাত্রার দোয়া</b>\nউচ্চারণ : সুবহানাল্লাজি সাখখারা লানা হা-জা ওয়ামা কুননা লাহু মুক্বরিনীন, ওয়া ইন্না ইলা রাব্বিনা লামুনক্বালিবুন। (সূরা: যুখরূফ, আয়াত: ১৩-১৪)। </string>
+    <string name="janbahoner_doa_ortho"><b>যানবাহনে যাত্রার দোয়া</b>\nঅর্থ: মহান পবিত্র তিনি, যিনি আমাদের জন্য এটাকে (যানবাহনকে) অধীন-নিয়ন্ত্রিত বানিয়ে দিয়েছেন, নতুবা আমরাতো এটাকে বশ করতে সক্ষম ছিলাম না। একদিন আমাদেরকে আমাদের প্রভুর নিকট অবশ্যই ফিরে যেতে হবে। </string>
+
+
+    <string name="doa_kunut"> اَللَّهُمَّ اِنَّ نَسْتَعِيْنُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِىْ عَلَيْكَ الْخَيْرَ وَنَشْكُرُكَ وَلاَ نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ يَّفْجُرُكَ-اَللَّهُمَّ اِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّىْ وَنَسْجُدُ وَاِلَيْكَ نَسْعَى وَنَحْفِدُ وَنَرْجُوْ رَحْمَتَكَ وَنَخْشَى عَذَابَكَ اِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحِقٌ </string>
+    <string name="doa_kunut_uccaron">উচ্চারণ : আল্লাহুম্মা ইন্না নাস্তাঈনুকা, ওয়া নাস্তাগফিরুকা, ওয়া নুমিনু বিকা, ওয়া নাতাওয়াকালু আলাইকা, ওয়া নুছনী আলাইকাল খাইরা, ওয়া নাশকুরুকা, ওয়ালা নাকফুরুকা, ওয়া নাখলাউ, ওয়া নাতরুকু মাঁই ইয়াফজুরুকা । আল্লাহুম্মা ইয়্যাকা নাবুদু ওয়া লাকানুসল্লী, ওয়া নাসজুদু, ওয়া ইলাইকা নাসআ, ওয়া নাহফিদু, ওয়া নারজু রাহমাতাকা, ওয়া নাখশা আযাবাকা, ইন্না আযাবাকা বিল কুফ্ফারি মুলহিক্ক।ُ </string>
+    <string name="doa_kunut_ortho">অর্থ: হে আল্লাহ আমরা তোমারই সাহায্য চাই, তোমারই নিকট ক্ষমা চাই, তোমারই প্রতি ঈমান রাখি, তোমারই ওপর ভরসা করি এবং সকল, মঙ্গল তোমারই দিকে ন্যস্ত করি। আমরা তোমার কৃতজ্ঞ হয়ে চলি অকৃতজ্ঞ হই না, হে আল্লাহ আমরা তোমারই দাসত্ব করি তোমারই জন্য নামায পড়ি এবং তোমাকেই সিজদাহ করি, আমরা তোমারই দিকে দৌড়াই ও এগিয়ে চলি। আমরা তোমারই রহমত, আশা করি এবং তোমার আযাবকে ভয় করি আর তোমার আযাবতো কাফেরদের জন্যই র্নিধারিত </string>
+
+    <string name="sana">سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلَا إِلَهَ غَيْرُكَ</string>
+    <string name="sana_uccaron">উচ্চারণ : সুবহা-না কাল্লা-হুম্মা ওয়া বিহাম্ দিকা ওয়াতাবার কাস্ মুকা ওয়াতা’ আ-লা জাদ্দুকা ওয়া লা-ইলা-হা গাইরুক। </string>
+    <string name="sana_ortho">অর্থ- হে আল্লাহ ! আমি আপনার পবিত্রতা ঘোষণা করছি এবং আপনার মহিমা বর্ণনা করছি। আপনার নাম বরকতময়, আপনার মাহাত্ম্য সর্বোচ্চ এবং আপনি ভিন্ন কেহই ইবাদতের যোগ্য নয় । </string>
+
+    <string name="ruku">سُبْحَانَ رَبِّيَ الْعَظِيْمِ</string>
+    <string name="ruku_tasbih">উচ্চারনঃ সুবহানা রাব্বিয়াল আযীম।</string>
+    <string name="ruku_tasbih_ortho">অর্থ-মহান প্রতিপালকের পবিত্রতা ও মহাত্মতা ঘোষণা করছি ।</string>
+
+    <string name="ruku_imam">سَمِعَ اللهُ لِمَنْ حَمِدَة</string>
+    <string name="ruku_tasbih_imam">উচ্চারণ : সামি‘আল্লা-হু লিমান হামিদাহ।</string>
+    <string name="ruku_tasbih_ortho_imam">অর্থ- হে আমার প্রভু, সমস্ত প্রশংসা আপনারই ।</string>
+
+    <string name="ruku_2">رَبَّنَا وَلَكَ الْحَمْدُ، حَمْداً كَثيراً طَيِّباً مُبارَكاً فِيهِ</string>
+    <string name="ruku_tasbih_2">উচ্চারণ : রব্বানা ওয়া লাকাল হামদু, হামদান কাছিরান ত্বায়্যিবান মুবা-রাকান ফিহি। (বুখারি)</string>
+    <string name="ruku_tasbih_ortho_2">অর্থ : হে আমাদের প্রতিপালক! আর আপনার জন্যই সমস্ত প্রশংসা; অঢেল, পবিত্র ও বরকত-রয়েছে-এমন প্রশংসা। </string>
+
+
+    <string name="sijdah">سُبْحَانَ رَبِّيَ الْأَعْلَى</string>
+    <string name="sijdah_tasbih">উচ্চারণ- সুবহা-না রাব্বিয়াল আ’লা। </string>
+    <string name="sijdah_tasbih_ortho">অর্থ- আমার প্রতিপালক যিনি সর্বশ্রেষ্ট, তারই পবিত্রতা বর্ণনা করছি । </string>
+
+    <string name="sijdah_2">اَللّهُمَّ اغْفِرْلِيْ وَارْحَمْنِي وَاهْدِنِيْ وَعَافِنِيْ وَارْزُقْنِيْ</string>
+    <string name="sijdah_tasbih_2">উচ্চারণ : আল্লাহুম্মাগফিরলি, ওয়ারহামনি, ওয়াহদিনি, ওয়া আফিনি, ওয়ারযুকনি। (মুসলিম, মিশকাত)</string>
+    <string name="sijdah_tasbih_ortho_2">অর্থ : হে আল্লাহ আপনি আমাকে মাফ করুন, আমাকে রহম করুন, আমাকে হেদায়েত দান করুন, আমাকে শান্তি দান করুন এবং আমাকে রিজিক দান করুন।</string>
+
+    <string name="janaja_niyet">نَوَيْتُ اَنْ اُؤَدِّىَ لِلَّهِ تَعَا لَى اَرْبَعَ تَكْبِيْرَاتِ صَلَوةِ الْجَنَا زَةِ فَرْضَ الْكِفَايَةِ وَالثَّنَا ءُ لِلَّهِ تَعَا لَى وَالصَّلَوةُ عَلَى النَّبِىِّ وَالدُّعَا ءُلِهَذَا الْمَيِّتِ اِقْتِدَتُ بِهَذَا الاِْمَامِ مُتَوَجِّهًا اِلَى جِهَةِ الْكَعْبَةِ الشَّرِ يْفَةِ اَللَّهُ اَكْبَرُ</string>
+    <string name="janaja_niyet_uccaron">উচ্চারণ- নাওয়াইতু আন উয়াদ্দিয়া লিল্লাহে তায়ালা আরবাআ তাকবীরাতে ছালাতিল জানাজাতে ফারজুল কেফায়াতে আচ্ছানাউ লিল্লাহি তায়ালা ওয়াচ্ছালাতু আলান্নাবীয়্যে ওয়াদ্দোয়াউ লেহাযাল মাইয়্যেতে এক্কতেদায়িতু বিহাযাল ইমাম মুতাওয়াজ্জিহান ইলা জিহাতিল কাবাতিশ শারিফাতে আললাহু আকবার।</string>
+    <string name="janaja_niyet_ortho">অনুবাদঃ আমি আল্লাহর উদ্দেশ্যে জানাযা নামাজের চার তাকবীর ফরযে কেফায়া কেবলামুখী হয়ে ইমামের পিছনে আদায় করার মনস্থ করলাম। ইহা আল্লাহু তায়ালার প্রশংসা রাসূলের প্রতি দরূদ এবং মৃত ব্যক্তির জন্য দোয়া (আর্শীবাদ) আল্লাহ মহান।</string>
+    <string name="janaja_nb">বিঃ দ্রঃ-মৃত ব্যাক্তি পুরুষ হলে ‘লেহাযাল মাইয়্যেতে’ এবং মৃত ব্যাক্তি মহিলা হলে ‘লেহাযিহিল মাইয়্যেতে’ পড়তে হয়।</string>
+
+    <string name="janaja_sana">سُبْحَا نَكَ اَللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَا لَى جَدُّكَ وَجَلَّ ثَنَاءُكَ وَلاَ اِلَهَ غَيْرُكَ</string>
+    <string name="janaja_sana_uccaron">উচ্চারণ- সুবহানাকা আল্লাহুম্মা ওয়া বিহামদিকা, ওয়া তাবারা কাসমুকা ওয়া তায়ালা জাদ্দুকা, ওয়া জাল্লা ছানাউকা ওয়া লা ইলাহা গাইরুকা।</string>
+    <string name="janaja_sana_ortho">অনুবাদঃ হে আল্লাহ আমরা তোমার পবিত্রতার গুণগান করিতেছি। তোমার নাম মংগলময় এবং তোমার স্তুতি অতি শ্রেষ্ঠ,তুমি ব্যতীত আর কেহই উপাস্য নাই।</string>
+
+    <string name="janaja_namajer_doa">اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَشَاهِدِنَا وَغَائِبِنَا وَصَغِيرِنَا وَكَبيرِنَا وَذَكَرِنَا وَأُنْثَانَا. اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الْإِسْلاَمِ وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الإِيمَانِ</string>
+    <string name="janaja_namajer_doa_uccaron">উচ্চারনঃ আল্লাহুম্মাগ্‌ফিরলি হায়্যিনা ওয়া মায়্যিতিনা ওয়া শাহিদিনা ওয়া গায়িবিনা ওয়া সগীরিনা ওয়া কাবীরিনা ওয়া যাকারিনা ওয়া উনসা-না আল্লাহুম্মা মান আহ্ইয়াইতাহু মিন্না ফা’আহ্‌য়িহি ‘আলাল-ইসলাম ওয়ামান তাওয়াফ্‌ফাইতাহু মিন্‌না ফাতাওয়াফফাহু ‘আলাল ঈমান।</string>
+    <string name="janaja_namajer_doa_ortho">অর্থঃ হে আল্লাহ! অমুকের ছেলে অমুক (এখানে মৃত ব্যক্তি ও তার পিতার নাম উল্লেখ করবে) আপনার জিম্মায় (হিফাযতে) এবং আপনারই আশ্রয়ের ভরসায় রয়েছে। সুতরাং আপনি তাকে কবরের ফিতনা হতে এবং জাহান্নামের আগুন হতে রক্ষা করুন। আপনি ওয়াদা পূর্ণকারী। হে আল্লাহ! আপনি তাকে মাফ করুন এবং তার উপর মেহেরবানি করুন, নিশ্চয়ই আপনি ক্ষমাকারী ও অত্যন্ত দয়ালু।</string>
+
+    <string name="janaja_cele">اَللَّهُمَّ اجْعَلْهُ لَنَا فَرْطًاوْ اَجْعَلْهُ لَنَا اَجْرً اوَذُخْرًا وَاجْعَلْهُ لَنَا شَا فِعًة وَمُشَفَّعًا</string>
+    <string name="janaja_cele_uccaron">উচ্চারণঃ আল্লাহুম্মাজ আলহুলানা ফারতাঁও ওয়াজ আলহুলানা আজরাও ওয়া যুখরাঁও ওয়াজ আলহুলানা শাফিয়াও ওয়া মুশাফ্ফায়া।</string>
+    <string name="janaja_cele_ortho">অর্থ: হে আল্লাহ, আপনি তাকে আমাদের জন্য অগ্রবর্তী হিসেবে কবুল করুন, তাকে করুন আমাদের জন্য প্রতিদান স্বরূপ এবং তাকে বানান আমাদের জন্য সুপারিশকারী -যার সুপারিশ কবুল করা হবে।</string>
+
+    <string name="janaja_meye">اللَّهُمَّ اجْعَلْهَا لَنَا فَرْطًا وَاجْعَلْهَا لَنَا اَجْرًا وَذُخْرًاوَاجْعَلْهَا لَنَا شَافِعَةً وَمُشَفَّعَة</string>
+    <string name="janaja_meye_uccaron">উচ্চারণঃ আল্লাহুম্মাজ আলহা লানা ফারতাও ওয়াজ আলহা লানা আজরাও ওয়া যুখরাও ওয়াজ আলহা লানা শাফিয়াও ওয়া মুশাফ ফায়া।</string>
+    <string name="janaja_meye_ortho">অর্থ: হে আল্লাহ, আপনি তাকে আমাদের জন্য অগ্রবর্তী হিসেবে কবুল করুন, তাকে করুন আমাদের জন্য প্রতিদান স্বরূপ এবং তাকে বানান আমাদের জন্য সুপারিশকারী -যার সুপারিশ কবুল করা হবে।</string>
+
+    <string name="ayatul_kursi">اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ</string>
+    <string name="ayatul_kursi_uccaron">উচ্চারণঃ আল্লাহু লা ইলাহা ইল্লা হুয়াল হাইয়্যুল ক্বাইয়্যুম লা তা’খুজুহু সিনাত্যু ওয়ালা নাউম। লাহু মা ফিছছামা ওয়াতি ওয়ামা ফিল আরদ্। মান যাল্লাযী ইয়াস ফায়ু ইন দাহু ইল্লা বি ইজনিহি ইয়া লামু মা বাইনা আইদিহিম ওয়ামা খল ফাহুম ওয়ালা ইউ হিতুনা বিশাই ইম্ মিন ইল্ মিহি ইল্লা বিমা সাআ ওয়াসিয়া কুরসিইউ হুস ছামা ওয়াতি ওয়াল আরদ্ ওয়ালা ইয়া উদুহু হিফজুহুমা ওয়াহুয়াল আলিয়্যূল আজীম।</string>
+    <string name="ayatul_kursi_ortho">অর্থ: আল্লাহ ছাড়া অন্য কোনো উপাস্য নেই, তিনি জীবিত, সবকিছুর ধারক। তাকে তন্দ্রাও স্পর্শ করতে পারে না এবং নিদ্রাও নয়। আসমান ও যমীনে যা কিছু রয়েছে, সবই তার। কে আছ এমন, যে সুপারিশ করবে তার কাছে তার অনুমতি ছাড়া? দৃষ্টির সামনে কিংবা পিছনে যা কিছু রয়েছে সে সবই তিনি জানেন। তার জ্ঞানসীমা থেকে তারা কোনো কিছুকেই পরিবেষ্টিত করতে পারে না, কিন্তু যতটুকু তিনি ইচ্ছা করেন। তার সিংহাসন সমস্ত আসমান ও যমীনকে পরিবেষ্টিত করে আছে। আর সেগুলোকে ধারণ করা তার পক্ষে কঠিন নয়। তিনিই সর্বোচ্চ এবং সর্বাপেক্ষা মহান।</string>
+
+    <string name="ghumanor_purbe">اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَ</string>
+    <string name="ghumanor_purbe_uccaron">উচ্চারনঃ আল্লাহুম্মা বিইস্‌মিকা আমুতু ওয়া আহ্‌ইয়া।</string>
+    <string name="ghumanor_purbe_ortho">অর্থঃ হে আল্লাহ! আমি আপনারই নামে মৃত্যুবরণ করব, আপনার নামের সাথেই জীবিত থাকব।</string>
+
+    <string name="ghum_theke_uthe">الحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ</string>
+    <string name="ghum_theke_uthe_uccaron">উচ্চারনঃ আল হামদুলিল্লা-হিল্লাজি আহ্‌ ইয়ানা বা’দামা আমাতানা ওয়া ইলাইহিন্ন নুশুর।</string>
+    <string name="ghum_theke_uthe_ortho">অর্থঃ সকল প্রশংসা আল্লাহ তা’আলার যিনি আমাদের মৃত্যু দানের পর পুনরায় জীবন দান করেছেন এবং মৃত্যুর পর তাঁ‍রই নিকট আমাদের প্রত্যাবর্তন করতে হবে।</string>
+
+    <string name="toilet_purbe">اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ</string>
+    <string name="toilet_purbe_uccaron">উচ্চারনঃ আল্লাহুম্মা ইন্নি আউজুবিকা মিনাল খুবছি ওয়াল খবায়িছ</string>
+    <string name="toilet_purbe_ortho">অর্থঃ আল্লাহ তা’আলার নামে, হে আল্লাহ! আমি আপনার নিকট ক্ষতিকারক নর ও নারী জিন শয়তান হতে আশ্রয় প্রার্থনা করছি।</string>
+
+    <string name="toilet_pore">غُفْرَانَكَ الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الْأَذَى وَعَافَانِي</string>
+    <string name="toilet_pore_uccaron">উচ্চারনঃ গুফরানাকা আলহামদুলিল্লাহিল্লাজি আজহাবা আন্নিল আজা ওয়া ফানি।</string>
+    <string name="toilet_pore_ortho">অর্থঃ হে আল্লাহ! আমি আপনার নিকট ক্ষমা চাচ্ছি। সকল প্রশংসা সেই মহান আল্লাহর জন্যে, যিনি আমার থেকে কষ্টদায়ক বস্তু দূর করে দিয়েছেন এবং আমাকে সুস্থ রেখেছেন।</string>
+
+    <string name="mosjid_probesh">بِسْمِ اللهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللهِ اللّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ</string>
+    <string name="mosjid_probesh_uccaron">উচ্চারনঃ বিসমিল্লাহি ওয়াস্‌সালাতু ওয়াস্‌সালামু আলা রাসুলিল্লাহ্‌ আল্লাহুম্মাফ্‌তাহলি আবওয়াবা রাহমাতিক্‌।</string>
+    <string name="mosjid_probesh_ortho">অর্থঃ আল্লাহ তা’আলার নামে প্রবেশ করছি। আল্লাহ তা’আলার রাসুল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের প্রতি রহমত ও শান্তি বর্ষিত হোক। হে আল্লাহ! আমার জন্যে আপনার রহমতের দ্বার উন্মুক্ত করে দিন। </string>
+
+    <string name="mosjid_prosthan">بِسْمِ اللهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللهِ اللهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ</string>
+    <string name="mosjid_prosthan_uccaron">উচ্চারনঃ বিসমিল্লাহি ওয়াস্‌সালাতু ওয়াস্‌সালামু আলা রাসুলিল্লাহ্‌ আল্লাহুমা ইন্নি আস’আলুকা মিন ফাদ্‌লিক।</string>
+    <string name="mosjid_prosthan_ortho">অর্থঃ আল্লাহ তা’আলার নামে শুরু করছি। আল্লাহ তা’আলার রাসুল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের প্রতি দরুদ, রহমত ও শান্তি বর্ষিত হোক। হে আল্লাহ! আমি আপনার নিকট হালাল রুজির প্রার্থনা করছি।</string>
+
+    <string name="khabar_samner_doa">اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ</string>
+    <string name="khabar_samner_doa_uccaron">উচ্চারনঃ আল্লহুম্মা বারিক লানা ফি মা রযাক্বতানা ওয়াক্বিনা আজাবান্ন’নার।</string>
+    <string name="khabar_samner_doa_ortho">অর্থঃ হে আল্লাহ! আপনি আমাদেরকে যে রিযিক দান করেছেন তাতে বরকত দান করুন এবং আমাদেরকে জাহান্নামের শাস্তি থেকে রক্ষা করুন।</string>
+
+    <string name="khabar_surur_doa">ﺑِﺴْﻢِ ﺍﻟﻠﻪِ ﻭَﻋَﻠٰﻲ ﺑَﺮَﻛَﺔِ ﺍﻟﻠﻪِ</string>
+    <string name="khabar_surur_doa_uccaron">উচ্চারনঃ বিসমিল্লাহি ওয়া’আলা বারাকাতিল্লাহ</string>
+    <string name="khabar_surur_doa_ortho">অর্থঃ আল্লাহ তা’আলার নামে শুরু করছি, এবং আল্লাহ তা’আলার বরকতের সাথে এ খাবার গ্রহণ করছি।</string>
+
+    <string name="bismillah_vuler_doa">ﺑِﺴْﻢِ ﺍﻟﻠﻪِ ﺍَﻭَّﻟَﻪٗ ﻭَ ﺍٰﺧِﺮَﻩٗ</string>
+    <string name="bismillah_vuler_doa_uccaron">উচ্চারনঃ বিসমিল্লাহি আওওয়ালাহু ওয়া আখীরাহ।</string>
+    <string name="bismillah_vuler_doa_ortho">অর্থঃ আল্লাহর নামে খাবার খাওয়া শুরু এবং শেষ করছি।</string>
+
+    <string name="khawar_seser_doa">الحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ</string>
+    <string name="khawar_seser_doa_uccaron">উচ্চারনঃ আলহামদুলিল্লাহিল্লাজি আত্ব’আমানা ওয়া সাক্বানা ওয়া জ্বা’আলানা মিনাল মুসলিমিন</string>
+    <string name="khawar_seser_doa_ortho">অর্থঃ সকল প্রশংসা আল্লাহ তা’আলার জন্যে যিনি আমাদের পানাহার করিয়েছেন এবং আমাদেরকে মুসলমান বানিয়েছেন।</string>
+    <string name="title_activity_navigation_">Navigation_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+</resources>

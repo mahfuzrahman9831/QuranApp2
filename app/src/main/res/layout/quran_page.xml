@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#F1D9D9"
+            android:orientation="vertical"
+            android:padding="30dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="25dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:gravity="center"
+                    android:textSize="35sp"
+                    android:fontFamily="@font/scheherazaderegot"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/quran_page_header1"
+                    />
+
+                <TextView
+                    android:fontFamily="@font/kalpurush"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textSize="20sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/quran_page_header2"
+                    />
+
+            </LinearLayout>
+
+
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_fatihaId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/first_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                />
+
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_lailId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/twenty_four_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_duhaId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/twenty_three_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_inshirahId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/twenty_two_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_tinId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/twenty_one_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_alakId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/twenty_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_kadorId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/nineteen_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_baiyinahId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/eightteen_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_zilzalId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/seventeen_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_adiyatId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/sixteen_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_kariahId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/fifteen_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_takasurId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/fourteen_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_asorId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/thirteen_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_humajhahId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/twelve_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_filId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/eleven_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_kuraishId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/ten_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_maunId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/nine_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_kausarId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/eight_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_kafirunId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/seven_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_nasor_Id"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/sisth_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_lahab_Id"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/fifth_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_ikhlachId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/fourth_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_falakID"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/third_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+            <Button
+                android:fontFamily="@font/kalpurush"
+                android:id="@+id/sura_nasId"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/gradient"
+                android:shadowColor="#160645"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                android:text="@string/second_button"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
